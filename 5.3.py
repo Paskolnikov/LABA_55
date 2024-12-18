@@ -38,3 +38,4 @@ while rocks > 0:
         print("Выиграл компьютер")
         break
 
+#kfkf
